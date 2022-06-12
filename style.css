@@ -51,3 +51,21 @@
   text-align: center;
   background-color: #6a737b;
 }
+.circle{
+  margin-top -80px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+}
+.name{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  color: #FFaa00;
+  line-height: 1.8;
+}
+p{
+  margin: 0;
+  color:white;
+}
