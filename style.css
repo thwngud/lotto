@@ -27,7 +27,7 @@
   margin-left: 30px;
   float: right;
 }
-.nav_group [class ^=nav_link]:before{
+.nav_group[class ^=nav_link]:before{
   content: '';
   display: inline-block;
   width: 2px;
